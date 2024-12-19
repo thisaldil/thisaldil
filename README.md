@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **GLOBAL HRM**
 - 🌱 I’m currently learning **Machine Learning (ML)**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/thisaldil/myportfolio-2k24)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://thisaldil.github.io/myportfolio-2k24/)
 - 📫 How to reach me: **tdimith10@gmail.com**
 - ⚡ Fun fact: **AI might predict your pizza craving—pineapple topping included! 🍕🤖**
 
