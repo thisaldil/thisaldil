@@ -2,6 +2,12 @@
 ### IT Guy
 
 
+<h3 align="center">A passionate Software Engineer in Srilanka</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thisaldil&label=Profile%20views&color=0e75b6&style=flat" alt="thisaldil" /> </p>
+
+
+
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.licdn.com/dms/image/v2/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709671543058?e=2147483647&v=beta&t=a4rPwv4RtZzAdtxMCOnYldsqR05EbI_ssBJIH7vI8v8">
 </a>
