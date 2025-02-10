@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **Machine Learning (ML)**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://thisaldil.github.io/myportfolio-2k24/)
 - 📫 How to reach me: **tdimith10@gmail.com**
+- 🕵️‍♂️ Read my Blogs at thisalg.blogspot.com
 - ⚡ Fun fact: **AI might predict your pizza craving—pineapple topping included! 🍕🤖**
 
 ![Coding GIF](https://media.licdn.com/dms/image/v2/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709671543058?e=2147483647&v=beta&t=a4rPwv4RtZzAdtxMCOnYldsqR05EbI_ssBJIH7vI8v8)
