@@ -17,7 +17,6 @@
 
 - 🔭 I’m currently working on **GLOBAL HRM**
 - 🌱 I’m currently learning **Machine Learning (ML)**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://thisaldil.github.io/myportfolio-2k24/)
 - 📫 How to reach me: **tdimith10@gmail.com**
 - 🕵️‍♂️ Read my Blogs at [thisalg.blogspot.com](https://thisalg.blogspot.com/)
 - ⚡ Fun fact: **AI might predict your pizza craving—pineapple topping included! 🍕🤖**
