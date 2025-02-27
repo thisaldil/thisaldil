@@ -15,7 +15,7 @@
 
 
 
-- 🔭 I’m currently working on **GLOBAL HRM**
+- 🔭 I’m currently working on **MYSELF**
 - 🌱 I’m currently learning **Machine Learning (ML)**
 - 📫 How to reach me: **tdimith10@gmail.com**
 - 🕵️‍♂️ Read my Blogs at [thisalg.blogspot.com](https://thisalg.blogspot.com/)
