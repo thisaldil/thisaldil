@@ -1,5 +1,5 @@
 # Hi 👋, I'm Thisal Dilmith
-### IT Guy
+### NOTORIOUS TDG ☄️
 
 
 <h3 align="center">A passionate Software Engineer in Srilanka</h3>
