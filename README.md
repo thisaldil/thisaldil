@@ -103,9 +103,9 @@
     <td align="center" width="300">
       <strong>Deployment</strong><br/><br/>
       <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="30" />
-      <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="30" />
-      <img src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-icon.svg" width="30" />
-      <img src="https://www.vectorlogo.zone/logos/cpanel/cpanel-icon.svg" width="30" />
+     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Render-logo.svg/2048px-Render-logo.svg.png" width="30" />
+      <img src="https://raw.githubusercontent.com/railwayapp/branding/master/logo-light.svg" width="30" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/CPanel_logo.svg" width="40" /
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" />
     </td>
   </tr>
