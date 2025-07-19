@@ -44,7 +44,7 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="250">
+    <td align="center" width="300">
       <strong>Programming Languages</strong><br/><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30" />
@@ -59,26 +59,30 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="30" />
       <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" title="React Native"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="30" />
     </td>
-    <td align="center" width="250">
+    <td align="center" width="300">
       <strong>Backend Development</strong><br/><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="30" />
     </td>
   </tr>
 
   <tr>
-    <td align="center" width="250">
+    <td align="center" width="300">
       <strong>Mobile App Dev</strong><br/><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="30" />
       <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="30" />
     </td>
-    <td align="center" width="250">
+    <td align="center" width="300">
       <strong>Database</strong><br/><br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30" />
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" width="30" />
     </td>
-    <td align="center" width="250">
+    <td align="center" width="300">
       <strong>Cloud / BaaS</strong><br/><br/>
       <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="30" />
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" />
@@ -86,22 +90,27 @@
   </tr>
 
   <tr>
-    <td align="center" width="250">
+    <td align="center" width="300">
       <strong>Software Tools</strong><br/><br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="30" />
       <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="30" />
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="30" />
     </td>
-    <td align="center" width="250">
+    <td align="center" width="300">
       <strong>Version Control</strong><br/><br/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" />
     </td>
-    <td align="center" width="250">
+    <td align="center" width="300">
       <strong>Deployment</strong><br/><br/>
       <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="30" />
       <img src="https://www.vectorlogo.zone/logos/render/render-icon.svg" width="30" />
+      <img src="https://www.vectorlogo.zone/logos/railwayapp/railwayapp-icon.svg" width="30" />
+      <img src="https://www.vectorlogo.zone/logos/cpanel/cpanel-icon.svg" width="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" />
     </td>
   </tr>
 </table>
+
 
 
 
