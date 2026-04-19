@@ -16,7 +16,7 @@
 
 
 - 🔭 I’m currently working on **MYSELF**
-- 🌱 I’m currently learning **Machine Learning (ML)**
+- 🌱 I’m always works with **Modern Topics**
 - 📫 How to reach me: **tdimith10@gmail.com**
 - 🕵️‍♂️ Read my Blogs at [thisalg.blogspot.com](https://thisalg.blogspot.com/)
 - ⚡ Fun fact: **AI might predict your pizza craving—pineapple topping included! 🍕🤖**
