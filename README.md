@@ -9,7 +9,7 @@
 
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.licdn.com/dms/image/v2/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709671543058?e=2147483647&v=beta&t=a4rPwv4RtZzAdtxMCOnYldsqR05EbI_ssBJIH7vI8v8">
+  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.licdn.com/dms/image/v2/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709671543058?e=2147483647&v=beta&t=a4rPwv4RtZzAdtxMCOnYldsqR05EbI_ssBJIH7vI8v8">
 </a>
 
 
