@@ -1,27 +1,18 @@
 # Hi 👋, I'm Thisal Dilmith
 ### NOTORIOUS TDG ☄️
 
-
 <h3 align="center">A passionate Software Engineer in Srilanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thisaldil&label=Profile%20views&color=0e75b6&style=flat" alt="thisaldil" /> </p>
-
-
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.licdn.com/dms/image/v2/D5612AQHPo2XcY6F6qQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1709671543058?e=2147483647&v=beta&t=a4rPwv4RtZzAdtxMCOnYldsqR05EbI_ssBJIH7vI8v8">
 </a>
 
-
-
-
-- 🔭 I’m currently working on **MYSELF**
-- 🌱 I’m always works with **Modern Topics**
+- 🔭 I'm currently working on **MYSELF**
+- 🌱 I'm always works with **Modern Topics**
 - 📫 How to reach me: **tdimith10@gmail.com**
 - 🕵️‍♂️ Read my Blogs at [thisalg.blogspot.com](https://thisalg.blogspot.com/)
-- ⚡ Fun fact: **AI might predict your pizza craving—pineapple topping included! 🍕🤖**
-
-
 
 ### Connect with Me:
 <p>
@@ -33,12 +24,7 @@
   </a>
 </p>
 
-
-
-
-
 ---
-
 
 <h2 align="center">🧰 Tech Stack Overview</h2>
 
@@ -69,7 +55,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" width="30" />
     </td>
   </tr>
-
   <tr>
     <td align="center" width="300">
       <strong>Mobile App Dev</strong><br/><br/>
@@ -88,7 +73,6 @@
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="30" />
     </td>
   </tr>
-
   <tr>
     <td align="center" width="300">
       <strong>Software Tools</strong><br/><br/>
@@ -100,46 +84,30 @@
       <strong>Version Control</strong><br/><br/>
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30" />
     </td>
-<td align="center" width="300">
-<strong>Deployment</strong><br/><br/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="30" />
-<img src="https://raw.githubusercontent.com/thisaldil/thisaldil/main/assets/render.png" width="30" />
-<img src="https://raw.githubusercontent.com/thisaldil/thisaldil/main/assets/railway.png" width="30" />
-  <img src="https://logo.svgcdn.com/l/cpanel.svg" width="30" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" />
-</td>
-
+    <td align="center" width="300">
+      <strong>Deployment</strong><br/><br/>
+      <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="30" />
+      <img src="https://raw.githubusercontent.com/thisaldil/thisaldil/main/assets/render.png" width="30" />
+      <img src="https://raw.githubusercontent.com/thisaldil/thisaldil/main/assets/railway.png" width="30" />
+      <img src="https://logo.svgcdn.com/l/cpanel.svg" width="30" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="30" />
+    </td>
   </tr>
 </table>
 
-
-
-
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
-
-<!--- stats & Trophy (start) -->
 <p align="center">
-  <!--- stats (start) -->
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thisaldil&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thisaldil&theme=dark&hide_border=false" /> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thisaldil&theme=dark&show_icons=true&count_private=true" />
+  <br>
+  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thisaldil&theme=dark&hide_border=false" />
 </td>
-
 <td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisaldil&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=thisaldil&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
 </tr>
 </table>
-<!--- stats (end) -->
-
-</p>        
-<!--- stats (end) -->
+</p>
